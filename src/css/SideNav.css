@@ -1,0 +1,27 @@
+.sidenav {
+    height: 100vh;
+    width: 15vw;
+    position: fixed;
+    border: 1px solid black;
+    background-color: white;
+    transition: left .5s;
+}
+
+.inactive {
+    left: -100%;
+}
+
+.active {
+    left: 0;
+}
+
+.navItem {
+    margin-left: 40px;
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.navItemsContainer {
+    margin-top: 30px;
+}

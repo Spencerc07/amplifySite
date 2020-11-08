@@ -1,0 +1,9 @@
+.artContainer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f0f0f;
+    margin-top: -40px;
+}
+

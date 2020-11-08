@@ -1,0 +1,11 @@
+.landingPage {
+    background-color: #0f0f0f;
+    height: 90vh;
+    transition: opacity 2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
+

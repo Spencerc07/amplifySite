@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding:0;
+  }
+
+.headerContainer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #0f0f0f;
+    height: 90px;
+    align-items: flex-end;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.headerElement {
+    color: whitesmoke;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 14px;
+    width: 100px;
+    transition: font-size 1s;
+}
+
+.headerElement:hover {
+    font-size: 21px;
+}
