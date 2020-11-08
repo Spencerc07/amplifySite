@@ -62,19 +62,19 @@ function Stuff () {
                         <h3 style={{marginTop: "20px"}}>Music</h3>
                         <div className = "elementTitle">I Had It All</div>
                         <div className = "elementCredit">dj poolboi</div>
-                        <iframe src = "https://www.youtube.com/embed/bTxfcINRwXU" width="400px" height="213px"></iframe>
+                        <iframe src = "https://www.youtube.com/embed/bTxfcINRwXU"height="213px"></iframe>
                     </div>
 
                     <div className = "mediaElement">
                         <div className = "elementTitle">Tommy's Party</div>
                         <div className = "elementCredit">Peach Pit</div>
-                        <iframe src = "https://www.youtube.com/embed/iMUbmiXlHww" width="400px" height="213px"></iframe>
+                        <iframe src = "https://www.youtube.com/embed/iMUbmiXlHww" height="213px"></iframe>
                     </div>
 
                     <div className = "mediaElement">
                         <div className = "elementTitle">Friend</div>
                         <div className = "elementCredit">Blackmill</div>
-                        <iframe src = "https://www.youtube.com/embed/0zG_lckuzbo" width="400px" height="213px"></iframe>
+                        <iframe src = "https://www.youtube.com/embed/0zG_lckuzbo" height="213px"></iframe>
                     </div>
                 </div>
             </div>

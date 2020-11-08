@@ -43,4 +43,24 @@
         background-color: #0f0f0f;
         padding-bottom: 35px;
     }
+
+    .aboutText {
+        margin-left: 0px;
+        font-family: 'Quicksand', sans-serif;
+    }
+    
+    .aboutPic {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 400px) {
+    img {
+        width: 200px; 
+    }
+
+    .aboutContainer {
+        background-color: #0f0f0f;
+        padding-top: 50px;
+    }
 }
