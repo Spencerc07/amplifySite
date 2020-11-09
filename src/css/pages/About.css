@@ -12,8 +12,6 @@
 }
 
 .aboutContainer {
-    background-color: #0f0f0f;
-    height: 100vh;
     padding-top: 160px;
 }
 
@@ -60,7 +58,6 @@
     }
 
     .aboutContainer {
-        background-color: #0f0f0f;
         padding-top: 50px;
     }
 }

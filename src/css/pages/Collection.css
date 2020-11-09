@@ -1,8 +1,6 @@
 .collectionContainer {
     padding-bottom: 50px;
     padding-top: 35px;
-    background-color: #0f0f0f;
-    height: 87vh;
 }
 
 .collectionTitle {
@@ -57,7 +55,6 @@
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        background-color: #0f0f0f;
     }
 
     .mediaContainer {

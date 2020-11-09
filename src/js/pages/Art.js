@@ -11,6 +11,7 @@ import gluttony from '../../resources/Gluttony.png';
 function Art () {
     return(
         <div className="artContainer">
+            Coming soon
         </div>
     )
 }

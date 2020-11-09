@@ -5,9 +5,8 @@ import {Link} from 'react-router-dom';
 function Header() {
     return(
         <div className="headerContainer">
-
-            <div style={{color: "whitesmoke", fontSize: "36px", position: "absolute"}}>
-                SJC
+            <div >
+                <Link to="/" style={{color: "whitesmoke", fontSize: "36px", textDecoration: "none"}}>SJC</Link>
             </div>
 
             <div className="navLinks">
