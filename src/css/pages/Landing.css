@@ -7,3 +7,8 @@
     font-size: 20px;
 }
 
+@media (max-width: 400px) {
+    .landingPage {
+        height: 45vh;
+    }
+}
