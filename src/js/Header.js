@@ -10,16 +10,16 @@ function Header() {
             </div>
 
             <div className="navLinks">
-                <div style={{width: "100px"}}>
+                <div className="navItem">
                     <Link to="/about" className="headerElement">About</Link>
                 </div>
-                <div style={{width: "100px"}}>
+                <div className="navItem">
                     <Link to="/stuff" className="headerElement">Gallery</Link>
                 </div>
-                <div style={{width: "100px"}}>
+                <div className="navItem">
                 <Link to="/art" className="headerElement">Art</Link>
                 </div>
-                <div style={{width: "100px"}}>
+                <div className="navItem">
                     <a className="headerElement" href="https://github.com/Spencerc07"  target="_blank">Github</a>
                 </div>
             </div>

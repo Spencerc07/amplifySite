@@ -13,7 +13,6 @@ function About () {
 
                 <div className = "aboutText">
                     <p>24 year old software developer</p>
-                    <p>Permanent initiate</p>
                     <p>I'm interested in aesthetics and systems</p>
                 </div>
             </div>

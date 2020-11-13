@@ -37,3 +37,13 @@
     width: 100%;
     justify-content: space-around;
 }
+
+@media (max-width: 400px) {
+    .headerElement {
+        width: 70px;
+    }
+
+    .navLinks {
+        overflow: hidden;
+    }
+}
